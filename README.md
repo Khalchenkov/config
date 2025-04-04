@@ -34,7 +34,7 @@ Put `eval "$(starship init bash)"` into `/root/.bashrc`
 ## Command
 
 ```bash
-apt install fzf btop cava neofetch htop tmux nala mc curl git zsh
+apt install fzf neofetch tmux nala mc curl git zsh
 ```
 
 Cargo command
