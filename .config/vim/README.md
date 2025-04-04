@@ -21,10 +21,6 @@ fc-cache -fv
 
 Installing node.js using [nvm](https://github.com/nvm-sh/nvm)
 
-```bash
-nvm install node
-```
-
 ## Vim-plug
 
 [Vim-plug github](https://github.com/junegunn/vim-plug)
