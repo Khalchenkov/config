@@ -1,0 +1,96 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "file-icons",
+    
+    // cursor "phase" animation
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "block",
+    "editor.cursorWidth": 1,
+    "editor.cursorSmoothCaretAnimation": "on",
+   
+   
+    // cursor "expend" animation
+    //"editor.cursorBlinking": "expand",
+    //"editor.cursorStyle": "line",
+    //"editor.cursorWidth": 4,
+    //"editor.cursorSmoothCaretAnimation": true,
+
+
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "window.zoomLevel": 1, 
+    "liveServer.settings.donotVerifyTags": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+   
+    "workbench.colorTheme": "White Night",
+    "editor.tokenColorCustomizations": {
+        "[White Night]": {
+            "comments": "#d5d5d5",
+            "textMateRules": [
+                {
+                    "scope": "string.quoted",
+                    "settings": {
+                        "foreground": "#00ffff",
+                        "fontStyle": "bold underline"
+                    },
+                },
+            ],
+            "strings":{
+                "foreground": "#FFF"
+            },
+        }
+    },
+   
+    "workbench.colorCustomizations": {
+        "[White Night]": {
+            "activityBar.foreground": "#00ffff",
+            "activityBarBadge.background": "#00ffff",
+            "activityBarBadge.foreground": "#000",
+            "banner.foreground": "#000",
+            "breadcrumb.foreground": "#fff",
+            "statusBar.foreground": "#fff",
+            "problemsWarningIcon.foreground": "#ff0000",
+            "editorBracketHighlight.foreground1": "#FFF",
+            "editorBracketHighlight.foreground2": "#ea00ff",
+            "editorBracketHighlight.foreground3": "#00ffff",
+            "editorBracketHighlight.foreground4": "#6f00ff",
+            "editorBracketHighlight.foreground5": "#ffe600",
+            "editorBracketHighlight.foreground6": "#37ff00",
+            "editorBracketHighlight.unexpectedBracket.foreground": "#FF2C6D",
+            "editorLineNumber.activeForeground": "#00ffff",
+            "editorLineNumber.foreground": "#9b9b9b",
+            "tab.hoverForeground": "#00ffff",
+            "tab.hoverBorder": "#00ffff",
+            "tab.inactiveForeground": "#fff",
+            // cursorline
+            //"editor.lineHighlightBorder": "#8e8e8e",
+            //"editor.lineHighlightBackground": "#053232"
+        },
+    },
+
+    // Scobe
+    "editor.guides.bracketPairs" : true,
+    "editor.guides.highlightActiveIndentation" : true,
+    "editor.guides.bracketPairsHorizontal": "active",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 14,
+    
+    // Setup
+    "workbench.sideBar.location": "right",
+    "workbench.tips.enabled": false,
+    "editor.minimap.enabled": false,
+    "explorer.compactFolders": false,
+    "files.insertFinalNewline": true,
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "editor.tabSize": 2,
+    "window.menuBarVisibility": "toggle",
+    "window.customTitleBarVisibility": "auto",
+    "window.density.editorTabHeight": "compact",
+    "workbench.editor.tabActionCloseVisibility": false,
+    "workbench.activityBar.location": "top",
+    "editor.parameterHints.enabled": false
+}
