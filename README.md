@@ -1,6 +1,6 @@
 <h1 align="center">Terminal setup</h1>
 
-Gnome Terminal Size: 120x34
+> Gnome Terminal Size: 120x34
 
 ## Command
 
