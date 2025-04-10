@@ -51,7 +51,7 @@ Put `eval "$(starship init bash)"` into `/root/.bashrc`
 ### Python
 [Python site](https://www.python.org/)
 
-Installing python using [uv](https://docs.astral.sh/uv/)
+> Installing python using [uv](https://docs.astral.sh/uv/)
 
 Pyright:
 - [Pyright](https://microsoft.github.io/pyright/#/)
@@ -95,7 +95,7 @@ Rust-analyzer:
 ### Web
 [Node.js site](https://nodejs.org/en) and [Bun site](https://bun.sh/)
 
-Installing node.js using [nvm](https://github.com/nvm-sh/nvm)
+> Installing node.js using [nvm](https://github.com/nvm-sh/nvm)
 
 Web tools:
 - [Prettier](https://prettier.io/)
