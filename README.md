@@ -11,7 +11,7 @@ apt install fzf neofetch tmux nala mc curl git zsh
 Cargo command
 
 ```bash
-cargo install bat exa lsd git-delta du-dust fd-find ripgrep bottom gping zoxide
+cargo install bat exa lsd git-delta du-dust fd-find ripgrep zoxide
 ```
 
 ## Zsh
