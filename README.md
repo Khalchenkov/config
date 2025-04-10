@@ -2,6 +2,18 @@
 
 Gnome Terminal Size: 120x34
 
+## Command
+
+```bash
+apt install fzf neofetch tmux nala mc curl git zsh
+```
+
+Cargo command
+
+```bash
+cargo install bat exa lsd git-delta du-dust fd-find ripgrep bottom gping zoxide
+```
+
 ## Zsh
 
 [Oh-my-zsh site](https://ohmyz.sh/)
@@ -30,18 +42,6 @@ git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZS
 [Starship](https://starship.rs/)
 
 Put `eval "$(starship init bash)"` into `/root/.bashrc`
-
-## Command
-
-```bash
-apt install fzf neofetch tmux nala mc curl git zsh
-```
-
-Cargo command
-
-```bash
-cargo install bat exa lsd git-delta du-dust fd-find ripgrep bottom gping zoxide
-```
 
 ### My favorite theme for Midnight Commander is Dracula
 [Dracula theme for Midnight Commander](https://draculatheme.com/midnight-commander)
