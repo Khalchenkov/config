@@ -1,6 +1,6 @@
 <h1 align="center">Neofetch setup</h1>
 
-Cloning Repo
+Cloning...
   
 ```bash
 git clone https://github.com/Khalchenkov/neofetch-config.git && cd neofetch-config
