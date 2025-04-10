@@ -2,6 +2,18 @@
 
 > Gnome Terminal Size: 120x34
 
+## Nerd Fonts
+
+Recomended font version < 3version
+
+[Nerd fonts site](https://www.nerdfonts.com/)
+
+Move archive to `~/.local/share/fonts/`, unzip archive, remove zip file and run
+
+```bash
+fc-cache -fv
+```
+
 ## Command
 
 ```bash
