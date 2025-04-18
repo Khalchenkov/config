@@ -129,8 +129,7 @@ require("lazy").setup({
   },
   {
     "rust-lang/rust.vim",
-    ft = { "rust" },
-    event = "VeryLazy"
+    ft = { "rust" }
   },
   {
     "simrat39/rust-tools.nvim",
