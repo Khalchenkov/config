@@ -81,7 +81,6 @@
     "files.insertFinalNewline": true,
     "extensions.ignoreRecommendations": true,
     "files.autoSave": "afterDelay",
-    "terminal.integrated.fontFamily": "Hack Nerd Font",
     "editor.tabSize": 2,
     "window.titleBarStyle": "native",
     "window.menuBarVisibility": "toggle",
