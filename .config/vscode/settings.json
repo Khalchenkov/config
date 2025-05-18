@@ -10,7 +10,7 @@
     //"editor.cursorBlinking": "expand",
     //"editor.cursorStyle": "line",
     //"editor.cursorWidth": 4,
-    //"editor.cursorSmoothCaretAnimation": true,
+    //"editor.cursorSmoothCaretAnimation": "on",
 
 
     "explorer.confirmDelete": false,
