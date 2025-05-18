@@ -67,8 +67,6 @@
     "editor.guides.bracketPairs" : true,
     "editor.guides.highlightActiveIndentation" : true,
     "editor.guides.bracketPairsHorizontal": "active",
-    "editor.formatOnSave": true,
-    "editor.fontSize": 14,
     
     // Setup
     "workbench.sideBar.location": "right",
