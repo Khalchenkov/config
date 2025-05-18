@@ -5,4 +5,6 @@
 - [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
 
 ### Theme
+- [JellyFish Theme](https://marketplace.visualstudio.com/items?itemName=PawelBorkar.jellyfish)
+- [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 - [White Night](https://marketplace.visualstudio.com/items?itemName=arthurwhite.white)
