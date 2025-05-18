@@ -1,6 +1,4 @@
 {
-    "workbench.startupEditor": "none",
-    
     // cursor "phase" animation
     "editor.cursorBlinking": "phase",
     "editor.cursorStyle": "block",
