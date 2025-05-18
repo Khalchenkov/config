@@ -16,9 +16,7 @@
 
 
     "explorer.confirmDelete": false,
-    "liveServer.settings.donotShowInfoMsg": true,
     "window.zoomLevel": 1, 
-    "liveServer.settings.donotVerifyTags": true,
    
     "workbench.colorTheme": "White Night",
     "editor.tokenColorCustomizations": {
