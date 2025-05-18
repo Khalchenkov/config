@@ -1,6 +1,5 @@
 {
     "workbench.startupEditor": "none",
-    "workbench.iconTheme": "file-icons",
     
     // cursor "phase" animation
     "editor.cursorBlinking": "phase",
@@ -87,6 +86,7 @@
     "files.autoSave": "afterDelay",
     "terminal.integrated.fontFamily": "Hack Nerd Font",
     "editor.tabSize": 2,
+    "window.titleBarStyle": "native",
     "window.menuBarVisibility": "toggle",
     "window.customTitleBarVisibility": "auto",
     "window.density.editorTabHeight": "compact",
