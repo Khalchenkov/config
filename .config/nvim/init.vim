@@ -75,7 +75,7 @@ nmap <leader>fb :Telescope buffers<cr>
 nmap <leader>rf :RustFmt<cr>
 
 " Golang formatters
-nmap <leader>gf :!gofmt -w % && golines -w % && goimports -w %<cr>
+nmap <leader>gf :!gofmt -w %<cr>
 
 " Python formatter
 nmap <leader>pf :!black %<cr>
