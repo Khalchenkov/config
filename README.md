@@ -94,10 +94,6 @@ tar -xzvf 'archive-path' -C ~/.go/lang/ --strip-components=1 go/
 Gopls:
 - [Gopls](https://pkg.go.dev/golang.org/x/tools/gopls)
 
-Optional formatters:
-- [Golines](https://pkg.go.dev/github.com/wrype/golines)
-- [Goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports)
-
 ### Rust
 [Rust site](https://www.rust-lang.org/)
 
