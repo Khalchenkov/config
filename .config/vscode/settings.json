@@ -19,9 +19,6 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "window.zoomLevel": 1, 
     "liveServer.settings.donotVerifyTags": true,
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
    
     "workbench.colorTheme": "White Night",
     "editor.tokenColorCustomizations": {
