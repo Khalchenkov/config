@@ -94,6 +94,9 @@ tar -xzvf 'archive-path' -C ~/.go/lang/ --strip-components=1 go/
 Gopls:
 - [Gopls](https://pkg.go.dev/golang.org/x/tools/gopls)
 
+Formatter and diagnostic:
+- [Golangci-lint](https://golangci-lint.run/)
+
 ### Rust
 [Rust site](https://www.rust-lang.org/)
 
