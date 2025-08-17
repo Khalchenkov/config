@@ -866,9 +866,7 @@ require("auto-dark-mode").setup({
 
     -- Cursor
     require('smoothcursor').setup({
-      local autocmd = vim.api.nvim_create_autocmd
-
-      autocmd({ 'ModeChanged' }, {
+      vim.api.nvim_create_autocmd({ 'ModeChanged' }, {
         callback = function()
           local current_mode = vim.fn.mode()
           if current_mode == 'n' then
@@ -966,9 +964,7 @@ require("auto-dark-mode").setup({
 
     -- Cursor
     require('smoothcursor').setup({
-      local autocmd = vim.api.nvim_create_autocmd
-
-      autocmd({ 'ModeChanged' }, {
+      vim.api.nvim_create_autocmd({ 'ModeChanged' }, {
         callback = function()
           local current_mode = vim.fn.mode()
           if current_mode == 'n' then
