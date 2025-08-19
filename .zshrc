@@ -146,3 +146,6 @@ export BAT_THEME="DarkNeon"
 
 # zoxide
 eval "$(zoxide init zsh --cmd cd)"
+
+# fzf
+eval "$(fzf --zsh)"
