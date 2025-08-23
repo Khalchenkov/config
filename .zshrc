@@ -133,9 +133,9 @@ alias update='sudo nala update && sudo nala upgrade'
 alias clr='clear'
 
 # neofetch
-alias neofetch='neofetch --config ~/.config/neofetch/normal/config.conf'
-alias neoagro='neofetch --config ~/.config/neofetch/normal/config.conf --ascii ~/.config/neofetch/normal/logo_agro'
-alias neosmall='neofetch --config ~/.config/neofetch/small/config.conf'
+alias neofetch='neofetch --config ~/.config/neofetch/cfgs/default.conf --ascii ~/.config/neofetch/logos/logo_default'
+alias neoaggre='neofetch --config ~/.config/neofetch/cfgs/default.conf --ascii ~/.config/neofetch/logos/logo_aggre'
+alias neosmall='neofetch --config ~/.config/neofetch/cfgs/small.conf --ascii ~/.config/neofetch/logos/logo_small'
 neofetch
 
 # fzf
