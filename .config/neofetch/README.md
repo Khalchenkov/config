@@ -3,7 +3,7 @@
 Cloning...
   
 ```bash
-git clone https://github.com/Khalchenkov/neofetch-config.git && cd neofetch-config
+git clone https://github.com/Khalchenkov/config.git && cd config/.config/neofetch/
 ```
 Run install.sh script
 
