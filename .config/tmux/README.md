@@ -7,5 +7,5 @@
 After, put file `tmux.conf` to ~/.config/tmux/ and install
 
 ```bash
-apt install xclip
+install xclip
 ```
