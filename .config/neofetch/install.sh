@@ -1,17 +1,17 @@
 # Remove old neofetch config
-rm -rf ~/.config/neofetch
+rm -rf ~/.config/neofetch/
 
 # Create directory
-mkdir ~/.config/neofetch
-mkdir ~/.config/neofetch/normal ~/.config/neofetch/small
+mkdir ~/.config/neofetch/
+mkdir ~/.config/neofetch/logos/ ~/.config/neofetch/cfgs/
 
-# Copy config and image
-cp normal.conf ~/.config/neofetch/normal/config.conf
-cp normal_logo ~/.config/neofetch/normal/logo
-cp normal_logo_agro ~/.config/neofetch/normal/logo_agro
-cp small.conf ~/.config/neofetch/small/config.conf
-cp small_logo ~/.config/neofetch/small/logo
+# Copy configs and logos
+cp default.conf ~/.config/neofetch/cfgs/default.conf
+cp small.conf ~/.config/neofetch/cfgs/small.conf
+cp logo_default ~/.config/neofetch/logos/logo_default
+cp logo_aggre ~/.config/neofetch/logos/logo_aggre
+cp logo_small ~/.config/neofetch/logos/logo_small
 
 # Remove source directory
 cd ..
-rm -rf neofetch-config
+rm -rf neofetch-config/
