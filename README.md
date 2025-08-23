@@ -1,7 +1,5 @@
 <h1 align="center">Terminal setup</h1>
 
-> Gnome Terminal Size: 120x34
-
 ## Nerd Fonts
 
 Recomended font version < 3version
