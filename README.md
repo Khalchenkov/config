@@ -17,7 +17,7 @@ fc-cache -fv
 ## Command
 
 ```bash
-apt install fzf neofetch tmux nala mc curl git zsh
+install fzf neofetch tmux mc curl git zsh gcc make cmake
 ```
 
 Cargo command
