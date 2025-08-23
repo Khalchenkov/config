@@ -144,6 +144,10 @@ export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS' --color=fg:#d0d0d0,hl:#9830ff --color
 # bat
 export BAT_THEME="DarkNeon"
 
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
+
 # zoxide
 eval "$(zoxide init zsh --cmd cd)"
 
